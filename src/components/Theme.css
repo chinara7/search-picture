@@ -1,0 +1,21 @@
+
+/* .navbar-section{
+   overflow: hidden;
+   position: fixed;
+   width: 100%;
+   top: 0;
+  
+}
+
+.header-section{
+   display: block;
+} */
+
+.logo{
+   margin: 3% 0;
+   /* display: block; */
+}
+
+.moon{
+   cursor: pointer;
+}
